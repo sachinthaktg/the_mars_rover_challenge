@@ -1,4 +1,4 @@
-# the_mars_rover_challenge
+# The Mars Rover Challenge
 The Mars Rover Challenge
 
 THE CHALLENGE
